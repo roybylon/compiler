@@ -11,7 +11,6 @@ lint:
 		#pylint --disable=R,C,W1203 example_src/*.py
 			pylint --disable=R,C hello.py
 
-
 format:
 		#black **/*.py
 
